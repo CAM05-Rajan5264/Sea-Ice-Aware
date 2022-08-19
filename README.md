@@ -16,7 +16,7 @@ This app displays the monthly mean sea ice extent for the Arctic and Antarctic a
 - To begin, clone this repository to your computer:
 
     ```sh
-    https://github.com/vannizhang/sea-ice.git
+    https://github.com/CAM05-Rajan5264/Sea-Ice-Aware
     ```
 
 - From the project's root directory, install the required packages (dependencies):
